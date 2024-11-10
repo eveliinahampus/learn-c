@@ -12,5 +12,4 @@
 *.out         # Common Unix binary suffix
 *.bin         # Other generic binaries
 
-Helloworld    # Specific binary
 
