@@ -1,1 +1,16 @@
 /.vscode/
+
+# Ignore all binaries (no file extension)
+*
+!*.c
+!*.h
+!.gitignore
+
+# Ignore specific extensions or patterns
+*.o           # Object files
+*.exe         # Windows executables
+*.out         # Common Unix binary suffix
+*.bin         # Other generic binaries
+
+Helloworld    # Specific binary
+
